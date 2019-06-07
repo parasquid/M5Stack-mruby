@@ -18,7 +18,7 @@ Please install the following software required to build `M5Stack-mruby`.
 - [Ruby](https://www.ruby-lang.org/)
 - [GNU Bison](https://www.gnu.org/software/bison/)
 - [Git](https://git-scm.com/)
-- [esp-idf](https://github.com/espressif/esp-idf)
+- [esp-idf](https://github.com/espressif/esp-idf) v3.1.4
 
 ## Download M5Stack-mruby
 
