@@ -26,7 +26,7 @@ Change to the directory where you installed `esp-idf` and get the source code of
 
 ```bash
 cd ~/esp
-git clone --recursive https://github.com/mimaki/M5Stack-mruby.git
+git clone --recursive https://github.com/parasquid/M5Stack-mruby.git
 ```
 
 ## Build adn write to M5Stack
